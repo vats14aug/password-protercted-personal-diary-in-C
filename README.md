@@ -1,0 +1,1 @@
+# password-protercted-personal-diary-in-C
